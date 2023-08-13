@@ -17,6 +17,7 @@ return  PhpCsFixer\Config::create()
         'no_unused_imports' => true,
         'no_whitespace_in_blank_line' => true,
         'ordered_imports' => true,
+        'ordered_imports' => true,
         'standardize_not_equals' => true,
         'ternary_operator_spaces' => true,
     ])
