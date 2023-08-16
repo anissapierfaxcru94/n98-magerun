@@ -13,8 +13,7 @@ return  PhpCsFixer\Config::create()
         'no_leading_import_slash' => true,
         'no_extra_consecutive_blank_lines' => true,
         'no_leading_namespace_whitespace' => true,
-        'ordered_imports' => true,
-        'ordered_imports' => true,
+    
         'standardize_not_equals' => true,
         'ternary_operator_spaces' => true,
     ])
